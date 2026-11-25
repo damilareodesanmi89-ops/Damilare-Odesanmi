@@ -11,11 +11,9 @@
 The purpose of this lab is to learn to recover the password of a protected PDF files and help you learn how password cracking works and why it is important to use strong passwords.
 
 ##  Lab Configuration
-*   **Host OS:** Windows 10 Home
-*   **Host RAM:**  16.0 GB (15.8 GB usable)
-*   **Processor:** Intel Core i7-11800H @ 2.3 GHz
-*   **Graphics:** NVIDIA RTX 3060 Laptop GPU (6 GB), Intel(R) UHD Graphpics (128 MB)
-*   **Storage:** Micron 3400 477 GB NVMe M.2 SSD, Western Digital WD10SPX 932 GB HDD
+*   **Host OS:** Windows 11 pro
+*   **Host RAM:**  8Gb
+*   **Processor:** Intel Core i5  @ 2.3 GHz
 
 ### Step 1 . Download and Install John the Ripper.
 John the Ripper is downloaded from https://www.openwall.com/john/ and is installed in Windows computer.
@@ -93,10 +91,10 @@ In this project I learned encryption is a two-way function that what is encrypte
 - **Johnny GUI:** [https://virtualbox.org/wiki/Downloads](https://openwall.info/wiki/john/johnny)
   
 ##  Author
-**Rajesh Kadim**\
-Cybersecurity Intern B084
+**DamilareOdesanmi**\
+Cybersecurity 
 
-LinkedIn: https://www.linkedin.com/in/rajesh-kadim/
+LinkedIn profile : https://www.linkedin.com/in/damilare-odesanmi-95073a343?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ##  Project Information
 Program Name: Cybersecurity at Networkwalks | **Week:** 03 | Project: Password Cracking with John the Ripper & Networkwalks Tools | **Repository:** GitHub
